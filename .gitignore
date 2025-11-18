@@ -57,3 +57,9 @@ out/
 *.bak
 *.swp
 *~.nib
+
+# Environment variables
+.env
+
+# Application properties with sensitive data
+src/main/resources/application.properties
