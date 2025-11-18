@@ -4,7 +4,7 @@ Backend application for AIDece technical test, built with Spring Boot and Postgr
 
 ## Technologies
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3.2.0**
 - **PostgreSQL** - Production database
 - **H2** - In-memory database for testing
@@ -47,7 +47,7 @@ backend-aidece/
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.6 or higher
 - PostgreSQL 12 or higher (for production)
 
